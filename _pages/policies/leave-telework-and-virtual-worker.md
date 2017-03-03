@@ -10,6 +10,13 @@ Employees must report to work or have leave approved every scheduled work day. L
 
 Should an unforeseen emergency or illness arise requiring the use of leave not previously approved, contact your supervisor no later than two hours after the start of your typical work day to request permission for the absence. Unless other arrangements were made, requests for annual or sick leave must be made on each day of absence. Failure to properly request leave in accordance with this procedure may result in the denial of leave and a charge of absence without leave (AWOL), and may be the basis for disciplinary action. Absence without leave is an absence from duty that is not authorized or approved.
 
+Before taking leave, be sure to:
+
+- Submit leave through [ALOHA](https://aloha.gsa.gov)
+- Update the 18F Out of Office Calendar
+- Notify your Engagement Manager, if you're on an outside project, so they can update Float
+- Submit correct Tock entries assigned to Annual Leave
+- Share via Slack, email or over media with folk how need to know, and make sure work is covered
 
 ## Telework
 
@@ -97,7 +104,10 @@ If you need to work while traveling internationally and in a foreign country:
 1. Complete and submit the [GSA Foreign Defensive Travel - Pre Briefing](https://docs.google.com/document/d/1Twvl4JT86yGEKmMQk3GVen4I_CQkqe8s-ztgDOD2sL4/edit) form to the Office of Mission Assurance for approval.
 1. Once you return from your travel, submit the [GSA Foreign Travel - Debriefing](https://docs.google.com/document/d/1CvXTF-ti8wi3q29UZj9WXm4BwuwHFlT33MB_vZM7VrU/edit) form and submit it to the Office of Mission Assurance.
 
-For more information, review the [GSA Laptop, Smartphone, and PDA User Policy](https://docs.google.com/document/d/1EeLgsEsr2W20ZLK-iyVRzEcaq14_NwrwviRaWWTgKMU/edit). If you have questions about using GSA equipment in a foreign country, please open a work order with the IT Help Desk. Information about using your mobile device is [here](https://insite.gsa.gov/portal/category/536498). You can learn about [travel alerts and warnings](http://travel.state.gov/content/passports/english/alertswarnings.html) from the Department of State.
+For more information, review the [GSA Laptop, Smartphone, and PDA User Policy](https://docs.google.com/document/d/1EeLgsEsr2W20ZLK-iyVRzEcaq14_NwrwviRaWWTgKMU/edit). If you have questions about using GSA equipment in a foreign country, please open a work order with the IT Help Desk. Information about using your mobile device is [here](https://insite.gsa.gov/portal/category/536498). If you're working from Europe, ask GSA IT to switch your work phone over to a European network while you're gone. Note that you'll be able to get calls and data, but your phone *won't* tether.
+
+You can learn about [travel alerts and warnings](http://travel.state.gov/content/passports/english/alertswarnings.html) from the Department of State.
+
 
 ### Office of Mission Assurance
 

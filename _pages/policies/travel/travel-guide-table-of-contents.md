@@ -14,9 +14,9 @@ title: Travel Guide Table of Contents
     * [Book lodging outside of concur](/travel-guide-2-choose-your-itinerary/#book-hotel-alternate)
 * [3. Get trip approval](/travel-guide-3-approval)
     * [Complete Trip Information](/travel-guide-3-approval/#i-complete-trip-information)
-    * [Enter Accounting Codes](/travel-guide-3-approval/#ii-enter-accounting-codes)
+    * [Enter Accounting Codes](/travel-guide-3-approval/#iii-enter-accounting-codes)
          * [Additional Accounting Code Info](/travel-guide-accounting-codes)
-    * [Submitting for Approval](/travel-guide-3-approval/#iii-submit-authorization-for-approval)
+    * [Submitting for Approval](/travel-guide-3-approval/#iv-submit-authorization-for-approval)
 * [4. Travel](/travel-guide-4-travel)
 * [5. Get Reimbursed](/travel-guide-5-reimbursement)
    * [Create Voucher](/travel-guide-5-reimbursement/#i-create-a-voucher)
@@ -24,4 +24,4 @@ title: Travel Guide Table of Contents
    * [Submit for Approval](/travel-guide-5-reimbursement/#iii-submit-voucher-for-approval)
 * [Travel Guide FAQ](/travel-guide-faq)
 
-*Got questions? Ask [#travel](https://18f.slack.com/messages/travel)*
+*Got questions? Ask [#travel](https://18f.slack.com/messages/travel)* or [18f-travel@gsa.gov](mailto:18f-travel@gsa.gov)

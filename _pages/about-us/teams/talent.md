@@ -43,7 +43,7 @@ As per [the org chart](/org-chart), 18F Talent is broken down into small "teams"
 
 ### <a id="recruitment">Recruitment</a>
 
-Our recruitment team is made up of technical recruiters and recruitment coordinators. One of each will be assigned to be the point of contact for delivery, design, and consulting respectively. Their responsibilities include:
+Our recruitment team is made up of technical recruiters and recruitment coordinators. Their responsibilities include:
 
 - Identify, target, and attract top-notch, diverse candidates.
 - Work with candidates through the interview and beginning stages of the hiring process.
@@ -77,13 +77,7 @@ Training & Development (T&D) is dedicated to retaining an innovative and talente
 
 ### <a id="leads-and-management">Leads and management</a>
 
-- Jen Tress -- Director
-- Cristina Brydges -- Deputy Director, Administration Lead
-- Bill Rooney -- Product & Process Lead
-- Pia Scott -- Training & Development Lead
-- Esther Chang -- Delivery Talent Selection Point of Contact, Data Lead
-- Jennifer Moran -- Consulting Talent Selection Point of Contact, Executive Assistant
-- Shawnique Muller -- Talent Coordinator
+See [the org chart](/org-chart).
 
 ## <a id="how-we-work">How we work</a>
 

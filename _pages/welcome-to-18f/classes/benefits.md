@@ -92,7 +92,7 @@ Please use [ALOHA](/gsa-tools-equipment-and-transit/#aloha) to request sick leav
 
 ### Annual leave
 
-An employee may use annual leave for vacations, rest, and relaxation, and personal business or emergencies. Annual leave accrues based on how long you&rsquo;ve worked for the government:
+An employee may use annual leave for vacations, rest and relaxation, and personal business or emergencies. Annual leave accrues based on how long you&rsquo;ve worked for the government:
 
 * Fewer than three years: four hours per pay period
 * Between three and 15 years: six hours per pay period
@@ -126,6 +126,23 @@ Former members of the military and/or a military service academy can receive cre
 
 The Department of Labor has a [detailed guide to FMLA](http://www.dol.gov/whd/fmla/), including this [FMLA FAQ](http://www.dol.gov/whd/fmla/fmla-faqs.htm).
 
+### Advanced annual leave
+
+An employee may only take advanced annual leave in the amount they will earn back by the end of the current leave year, and the advanced leave may not exceed 80 hours.
+
+You can find Leave Year beginning and end dates in this Office of Personnel Management (OPM) [fact sheet](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/leave-year-beginning-and-ending-dates/).
+
+### Advanced sick leave
+
+In cases of serious disability or ailment, and when the exigencies of the situation so require, an employee may take advanced sick leave in an amount not to exceed 30 work days (240 hours). This advance may be granted whether or not the employee has any annual leave to their credit except where an application for disability retirement has been submitted to the Office of Personnel Management.
+
+**For employees** **serving under a limited appointment (term appointments) or one which will be terminated on a specified date, they may be advanced sick leave up to the total amount of sick leave which would otherwise be earned during the term of that appointment.**
+
+### Additional advanced leave resources
+
+* [Fact Sheet: Advanced Sick Leave](https://www.opm.gov/policy-data-oversight/pay-leave/leave-administration/fact-sheets/advanced-sick-leave/)
+* [Insite: Advanced Sick Leave](https://insite.gsa.gov/portal/category/510090)
+
 ## Lunch and break periods
 
 You can take a 30-minute or one-hour lunch break. Lunch breaks are unpaid, so you need to make sure you work eight hours per day. For example, if you come in at 8:00 a.m. and take a 30-minute lunch, you’d work til 4:30 p.m. If you took an hour lunch break, you’d work til 5:00 p.m.
@@ -145,6 +162,9 @@ To see your recent pay stubs:
 2. Click the "View Your Earnings and Leave Statement" link in the middle of the page.
 3. Choose the appropriate pay period in the drop-down menu.
 
+Note that the gross income in your paycheck will a little less than your annual income / 26 paychecks. The difference lies in the way the federal government calculates hourly rates from annual salary. The federal government divides the annual salary by 2087 hours rather than 2080 hours (26 pay periods x 80 hours) to determine hourly rates.
+
+This is because about every 11 years or so there are 27 pay periods rather than 26 pay periods (2015 was such a year for GSA payrolled employees). Here is an [article](http://www.govexec.com/federal-news/1999/09/pay-and-benefits-watch-why-your-paychecks-dont-always-add-up/4415/) which further explains this.
 
 ## Retirement
 
@@ -154,7 +174,7 @@ If you ever move, you can update your address for TSP by emailing it to both the
 
 To transfer your previous retirement account into your TSP, you&rsquo;ll need to fill out a [Form TSP-60](https://www.tsp.gov/PDF/formspubs/tsp-60.pdf) for every account you want to roll over. If you need help, you can call them by dialing 1-877-968-3778. Be sure to have your TSP account number and your SSN and mailing address handy.
 
-One note: If you have been contributing to 401k, 403b or anything alike at your previous employer, your total contribution for all similar plans can not be higher than the annual limit of ~$18K. Someone thought that the limit is on individual plan. It is actually on the [person for all plan alike](https://www.tsp.gov/PDF/formspubs/oc91-13.pdf).
+Note: If you have been contributing to a 401k, 403b, or a similar plan at your previous employer, your total contribution for all similar plans can not be higher than the annual limit of $18,000. The limit is not $18,000 per plan, but [$18,000 in aggregate](https://www.tsp.gov/PDF/formspubs/oc91-13.pdf).
 
 
 ## Training

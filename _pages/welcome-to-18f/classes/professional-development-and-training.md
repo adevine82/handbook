@@ -22,50 +22,60 @@ There are many training and professional development opportunities available to 
 
 ## Mandatory training
 
-All General Services Administration (GSA) employees are required to take mandatory training courses providing critical information about how we work in the federal space. To take these courses, please log into [GSA&rsquo;s Online University (OLU)](https://gsaolu.gsa.gov/login.asp). Please note: You may not have access to this for your first four to six weeks at 18F. Mandatory trainings include: 
+All General Services Administration (GSA) employees are required to take mandatory training courses providing critical information about how we work in the federal space. To take these courses, please log into [GSA&rsquo;s Online University (OLU)](https://gsaolu.gsa.gov/login.asp). Please note: You may not have access to this for your first four to six weeks at 18F, although you can try [these steps to gain early access to OLU](/gsa-tools-equipment-and-transit/#online-university). Mandatory trainings include: 
 
 <table>
   <thead>
     <tr>
       <td><strong>Course</strong></td>
+      <td><strong>Where</strong></td>
       <td><strong>Duration</strong></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Concur Training (must take to travel)</td>
+      <td>Slack: #18F-classes</td>
       <td>30 minutes</td>
     </tr>
     <tr>
       <td>No Fear Act</td>
+      <td><a href="https://gsaolu.gsa.gov">OLU</a></td>
       <td>30 minutes</td>
     </tr>
     <tr>
       <td>IT Security Awareness and Privacy 101</td>
+      <td><a href="https://gsaolu.gsa.gov">OLU</a></td>
       <td>90 minutes</td>
     </tr>
     <tr>
       <td>Sharing In a Collaborative Environment</td>
+      <td><a href="https://gsaolu.gsa.gov">OLU</a></td>
       <td>30 minutes</td>
     </tr>
     <tr>
       <td>Employee Accountability for Personal Property</td>
+      <td><a href="https://gsaolu.gsa.gov">OLU</a></td>
       <td>30 minutes</td>
     </tr>
     <tr>
       <td>Attending a Conference</td>
+      <td><a href="https://gsaolu.gsa.gov">OLU</a></td>
       <td>45 minutes</td>
     </tr>
     <tr>
       <td>Telework Works (must be completed before you <a href="/leave-telework-and-virtual-worker#how-do-i-get-an-approved-telework-agreement">submit your telework agreement</a>)</td>
+      <td><a href="https://gsaolu.gsa.gov">OLU</a></td>
       <td>120 minutes</td>
     </tr>
     <tr>
       <td>Ethics Training</td>
+      <td><a href="https://gsaolu.gsa.gov">OLU</a></td>
       <td>120 minutes</td>
     </tr>
     <tr>
       <td>What is Records Management</td>
+      <td><a href="https://gsaolu.gsa.gov">OLU</a></td>
       <td>30 minutes</td>
     </tr>
   </tbody>
@@ -120,7 +130,7 @@ That said, 18F will consider all requests for training, but it’s the responsib
 
 Once your IDP is approved, enter your speaking or training request in [our team spreadsheet](https://docs.google.com/spreadsheets/d/1Y0336rKQ4FiTFhoQynRjoVuJFzXEgaV0QcHqaNd-Eis/edit#gid=751771132). Please complete the entire form, except for columns B (supervisor approval), D (presence of red flags), Q (notes), R (identification of red flags), and S (steps to approval).
 
-If you don’t complete all the required columns, there will likely delay the processing of your request. 
+If you don’t complete all the required columns, there will likely delay the processing of your request.
 
 Within one week of submitting your request, you should hear back from [Pia](mailto: pia.scott@gsa.gov) about the status of your request and whether you have any red flags to resolve.
 
@@ -213,6 +223,10 @@ And now, the fun part: It’s time for you to attend your conference or training
 
 If you&rsquo;re interested in speaking at an event &mdash; even if you&rsquo;re doing so in your personal capacity &mdash; please add that event to our [event spreadsheet](https://docs.google.com/spreadsheets/d/1Y0336rKQ4FiTFhoQynRjoVuJFzXEgaV0QcHqaNd-Eis/edit#gid=2065658991). You&rsquo;ll also need to follow [this guide](https://docs.google.com/document/d/1OjxymrHIU1VREv93HrG1sESzyrtx8B2kl_Ey4IL_4xc/edit#heading=h.t8mki1xtcuxz).
 
+## Self-directed study for engineers
+
+Engineering Chapter members: Would you like to pursue a self-directed training option? Would you like to teach yourself a new programming language, read the latest book on software development ideology, or take an online course? You totally can! Please include the request as part of your Individual Development Plan (IDP). If there is any type of cost associated with your training, you will need a to also submit a supervisor-approved (i.e. signed) Standard Form 182. Once you’ve submitted your IDP your Supervisor will usually approve the request within 72 hours, and you will be good to go! Please coordinate with your project to carve out the time, and with your Supervisor to determine the duration, goals, and success markers of self-directed study. Please talk with your Facilitator or Supervisor with any questions, comments, or concerns.
+
 ## Other training resources
 
 As an 18F team member, you have access to additional online training resources.
@@ -223,4 +237,5 @@ As an 18F team member, you have access to additional online training resources.
 
 - 18F has a number of licenses to **User Interface Engineering (UIE)&rsquo;s video library.** To access it, add your name to [this spreadsheet](https://docs.google.com/a/gsa.gov/spreadsheets/d/1CGl5gBdFhKQ3aFdvv67KGLa21xj-WFp6whRF9XGU-B0/edit#gid=0). Then log in [here](http://aycl.uie.com/).
 
-- [Safari Books Online](https://www.safaribooksonline.com) provides online access to 30,000 books and videos about programming, UX design, leadership, project management, content strategy, agile development, and more. To request access, email [18fsoftware@gsa.gov](mailto:18fsoftware@gsa.gov) and cc: your supervisor.
+- [Safari Books Online](https://www.safaribooksonline.com) provides online access to 30,000 books and videos about programming, UX design, leadership, project management, content strategy, agile development, and more. To request access, email [18fsoftware@gsa.gov](mailto:18fsoftware@gsa.gov).
+-

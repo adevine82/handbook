@@ -8,7 +8,7 @@ Collectively, we’re experienced in a wide variety of technologies including Py
 
 ### Documentation
 
-Our [Engineering Best Practices guide](https://pages.18f.gov/development-guide/) has details about Git, code reviews, and more. You might also enjoy the [open source](https://18f.gsa.gov/tags/open-source/) archives on the blog.
+Our [Engineering Best Practices guide](https://github.com/18F/development-guide#18f-development-guide) has details about Git, code reviews, and more. You might also enjoy the [open source](https://18f.gsa.gov/tags/open-source/) archives on the blog.
 
 ### Communication
 
@@ -70,19 +70,7 @@ Engineering also has five functional leads: backend, frontend, devops, security,
 
 ### Leadership and facilitators
 
-- Holly Allen — Engineering Director
-- Theresa Summa — Facilitator - Cronus 1
-- Sasha Magee — Facilitator - Spaceball 1
-- Justin Grevich — Facilitator - Chumanjalaal
-- Aidan Feldman — Facilitator - Voyager 1
-- Micah Saul — Facilitator - Pleiades
-- Annalee Flower Horne - Facilitator - Bellatrix
-- Carlo Costino - Facilitator - Apollo
-- Marco Segreto — Frontend Lead
-- CM Lubinski — Backend Lead
-- Jacob Kaplan-Moss - Security Lead
-- James Scott - Diversity Lead
-- Adam Kendall - DevOps Lead
+See [the org chart](/org-chart).
 
 ## FAQ
 
@@ -152,7 +140,7 @@ Most of the Engineering team works on a mix of partner agency projects and inter
 
 ## Mailing lists
 
-  - 18F-dev@gsa.gov. You’ll most likely get added automatically — no need to worry about registering.
+  - 18F-dev@gsa.gov. If for some reason you didn't get automatically added, give a shout in [#eng-leadership](https://18f.slack.com/messages/eng-leadership). Someone there will get you set up.
   - Optional listservs that may be of interest: [Interagency Open Data Working Group](/general-contacts-and-listservs/#interagency-open-data-working-group), [Security Today](/general-contacts-and-listservs/#security-today).
 
 ## Tools
